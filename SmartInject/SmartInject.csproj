@@ -9,7 +9,7 @@
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
     <IsRoslynComponent>true</IsRoslynComponent>
 
-    <PackageId>FastInject.Core</PackageId>
+    <PackageId>SmartInject.Core</PackageId>
     <Version>1.0.0</Version>
     <Authors>Engin Can</Authors>
     <Description>A zero-dependency, compile-time Dependency Injection source generator for .NET.</Description>
