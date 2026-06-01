@@ -1,0 +1,21 @@
+# BİLDİRİMLER (Build & Derleme Çıktıları)
+bin/
+obj/
+TestResults/
+
+# NUGET PAKETLERİ (Açık kaynak repoya atılmamalıdır)
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+
+# VİSUAL STUDİO / IDE DOSYALARI
+.vs/
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# MAC OS (Eğer Mac kullanıyorsan)
+.DS_Store
